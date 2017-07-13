@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spectral</title>
-    <description>Another fine responsive  
-site template freebie  
-crafted by [HTML5 UP](http://html5up.net)
+    <title>Jacky Han</title>
+    <description>Jacky's personal website
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Jul 2017 13:58:03 -0400</pubDate>
-    <lastBuildDate>Thu, 13 Jul 2017 13:58:03 -0400</lastBuildDate>
+    <pubDate>Thu, 13 Jul 2017 14:02:21 -0400</pubDate>
+    <lastBuildDate>Thu, 13 Jul 2017 14:02:21 -0400</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
   </channel>
